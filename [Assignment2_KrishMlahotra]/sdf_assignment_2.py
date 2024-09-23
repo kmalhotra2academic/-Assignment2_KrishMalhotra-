@@ -5,7 +5,8 @@ Date:September 20, 2024
 """
 
 #SIMPLE DATA TYPES
-
+name = int(5)
+print(name)
 #CALCULATIONS
 
 #LISTS
